@@ -3,3 +3,8 @@ class HelloWorld{
         System.out.println("Hello World");
     }
 }
+
+
+class sampleClass {
+/* created by Jayasin */
+}
